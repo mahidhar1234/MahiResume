@@ -1,42 +1,55 @@
 {
-"basics":{
-"email":"mahidharmahi4497@gmail.com",
-"mobile":"+91-9573480199"
+	"basics":
+	{
+		"name":"M.Mahidhar",
+		"email":"mahidharmahi4497@gmail.com",
+        "mobile":"+91-9573480199"
+
+	},
+	"career":{
+
+	"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
 },
-"career":{
-"info": "To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+"education":[
+{
+	"degree":"B.Tech(C.S.E)",
+	"institute":"Avanthi",
+	"data":["2015-19","62%"]
 },
-"education": [
-  {
-    "degree":"B.tech(C.S.E)",
-    "institute":"Avanthi",
-    "data":["2015-2019","62%"]
-  },
-  {
-    "degree":"intermediate/diploma",
-    "institute":"sri gayatri junior college",
-    "data":["2013-2015","67%"]
-  },
-  {
-    "degree":"s.s.c",
-    "institute":"De paul school",
-    "data":["2002-2013","85%"]
-  }],
-  "skills":{
-    "title":"programming Languages",
-    "Info":["c","c++","java","perl"]
-  },
-  {
-    "title":"database",
-    "Info":["mangoDB","CSS3","javascript"]
-  },
-  {
-    "title":"web technologies",
-    "Info":["HTML5","CSS3","javascript"]
-  },
-  {
-    "title":"Libraries and framework",
-    "Info":["angular","ionic",".net"]
-  }
-}  
+{
+	"degree":"intermediate",
+	"institute":"Sri  gayatri junior college",
+	"data":["2013-15","67%"]
+},
+{
+
+"degree":"S.S.C",
+	"institute":"De paul school",
+	"data":["2012-13","82%"]
+}
+],
+"skills":[
+{
+	"title":"proramming languages",
+	"info":["c","c++","java","python","R"]
+},
+{
+	"title":"database",
+	"info":["monodb","mysql","oracle"]
+},
+{
+
+	"title":"web technology",
+	"info":["css3","html5","javascript"]
+},
+{
+	"title":"library and frameworks",
+	"info":["angular","ionic","expressjs",".net"]
+},
+{
+	"title":"os",
+	"info":["linux","windows","dos"]
+}
+
+]
 }
